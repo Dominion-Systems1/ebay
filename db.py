@@ -7,3 +7,4 @@ maven
 docker
 rudolph
 aws
+ebs
