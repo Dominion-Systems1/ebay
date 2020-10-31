@@ -7,3 +7,5 @@ maven
 docker
 rudolph
 aws
+elastic cache
+SQS
