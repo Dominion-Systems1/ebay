@@ -5,3 +5,5 @@ maven
 git and github
 maven
 docker
+rudolph
+aws
