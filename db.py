@@ -8,3 +8,5 @@ docker
 rudolph
 aws
 ebs
+elastic cache
+SQS
