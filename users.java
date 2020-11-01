@@ -1,3 +1,4 @@
+#List of DevOps Engineers
 mofor
 simon
 sylvie
@@ -6,3 +7,5 @@ harmless
 Line
 Light
 forgiveness
+Bintu
+Marielle
